@@ -1,7 +1,8 @@
-Latin letter recognition by 2 ways: Convolutional Neural Network and Multilayer Perceptron
+#### Latin letter recognition by 2 ways: Convolutional Neural Network and Multilayer Perceptron
 
-Dataset - EMNIST Letters
+##### Dataset - EMNIST Letters
 
-How to run: 
-python CNN.py
-python multilayer_perceptron.py
+---
+##### How to run: 
+```python CNN.py```
+```python multilayer_perceptron.py```
