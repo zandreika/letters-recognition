@@ -4,5 +4,5 @@
 
 ---
 ##### How to run: 
-```python CNN.py```
-```python multilayer_perceptron.py```
+```python CNN.py```   
+```python MLP.py```
