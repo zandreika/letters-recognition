@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 np.random.seed(1671)  # for reproducibility
 
 # network and training
-NB_EPOCH = 50
+NB_EPOCH = 100
 BATCH_SIZE = 256
 VERBOSE = 2
 NB_CLASSES = 26   # number of outputs = number of digits
