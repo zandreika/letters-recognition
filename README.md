@@ -4,5 +4,5 @@
 
 ---
 ##### How to run: 
-```python CNN.py```   
-```python MLP.py```
+```python src/CNN.py```   
+```python src/MLP.py```
